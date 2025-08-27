@@ -1,6 +1,6 @@
 # Mental-health-Sentiment-Anaylsis-
 Building a A.I model that is a sentiment analysis and classify for Mental Health patent care. 
-I used Claude to build a basic interface for use in a Demo.
+
 
 Model Performance
 
@@ -11,10 +11,9 @@ Training Data: 500K+ clinical samples
 
  Technologies Used
 Python
-React.js
 TensorFlow/Keras
-Tailwind CSS
-Lucide React Icons
+Tkinter
+
 
  Clinical Disclaimer
 This tool assists healthcare professionals and should not replace clinical judgment. All high-risk classifications require professional review.
